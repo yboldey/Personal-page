@@ -300,7 +300,6 @@ nav {
 }
 
 #personal-logo {
-    filter: invert(1);
     width: 50px;
     height: 50px;
 }
@@ -593,6 +592,7 @@ footer {
 
 .footer__logo--img {
     width: 70px;
+    filter: invert(1);
 }
 
 .footer__social--list {
